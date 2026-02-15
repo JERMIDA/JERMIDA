@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Lemi Damena<br><br>💻 Software Engineering Student<br>🚀 Full-Stack Developer <br>🎯 Focused on building real-world, scalable web applications<br><br>I'm a passionate software engineering student who loves turning ideas into functional, clean, and user-friendly applications. I enjoy building full-stack projects and continuously improving my problem-solving skills.
+👋 Hi, I'm Lemi Damena<br>💻 Software Engineering Student<br>🚀 Full-Stack Developer <br>🎯 Focused on building real-world, scalable web applications<br><br>I'm a passionate software engineering student who loves turning ideas into functional, clean, and user-friendly applications. I enjoy building full-stack projects and continuously improving my problem-solving skills.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/let_meda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/letmeda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeremydamena98@gmail.com) 
@@ -12,12 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JERMIDA&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JERMIDA&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=JERMIDA&icon=3&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
